@@ -25,7 +25,7 @@ export default function About() {
                     <img
                         className='object-cover object-center rounded'
                         src="https://images.unsplash.com/photo-1603575448360-153f093fd0b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzd8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
-                        // src="./portfolio-img.jpg"
+                        // src="./Sushil_dp.png"
                         alt="hero"
                     />
                 </div>
